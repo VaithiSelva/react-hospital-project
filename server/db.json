@@ -1,0 +1,91 @@
+{
+  "op": [
+    {
+      "Name": "selva",
+      "Age": "23",
+      "Mobile": "7603806300",
+      "Purpose": "Fever",
+      "Email": "vaithiselva2@23gmail.com",
+      "Date": "2023-9-24",
+      "id": 1
+    },
+    {
+      "Name": "thasa",
+      "Age": "23",
+      "Mobile": "7603806300",
+      "Purpose": "Headpain",
+      "Email": "vaithiselva2@23gmail.com",
+      "Date": "2023-9-25",
+      "id": 2
+    },
+    {
+      "Name": "pons",
+      "Age": "23",
+      "Mobile": "7603806300",
+      "Purpose": "Headpain",
+      "Email": "vaithiselva2@23gmail.com",
+      "Date": "2023-9-30",
+      "id": 3
+    },
+    {
+      "Name": "maniselva",
+      "Age": "22",
+      "Mobile": "7603806300",
+      "Purpose": "Fever",
+      "Email": "vaithiselva2@23gmail.com",
+      "Date": "2023-10-3",
+      "id": 4
+    },
+    {
+      "Name": "anthony",
+      "Age": "54",
+      "Mobile": "7603806300",
+      "Purpose": "Headpain",
+      "Email": "vaithiselva2@23gmail.com",
+      "Date": "2023-10-3",
+      "id": 5
+    }
+  ],
+  "employe": [
+    {
+      "Name": "Selva kumar",
+      "Age": "23",
+      "Gender": "Male",
+      "Role": "Doctor",
+      "Mobile": "7603806300",
+      "Email": "vaithiselva123@gmail.com",
+      "Address": "tenkasi",
+      "id": 1
+    },
+    {
+      "Name": "Pon Arasu",
+      "Age": "22",
+      "Gender": "Male",
+      "Role": "HR",
+      "Mobile": "9876543210",
+      "Email": "ponarasu123@gmail.com",
+      "Address": "tenkasi",
+      "id": 2
+    },
+    {
+      "Name": "Sathish",
+      "Age": "23",
+      "Gender": "Male",
+      "Role": "Front Office",
+      "Mobile": "9876543213",
+      "Email": "sathish123@gmail.com",
+      "Address": "tenkasi",
+      "id": 3
+    },
+    {
+      "Name": "kiruba",
+      "Age": "24",
+      "Gender": "Male",
+      "Role": "HR",
+      "Mobile": "1234567890",
+      "Email": "prem123@gmail.com",
+      "Address": "tenkasi",
+      "id": 4
+    }
+  ]
+}
